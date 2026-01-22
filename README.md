@@ -29,6 +29,8 @@ Priority Rescue List: A dynamic table that identifies 351 VIP users for immediat
 
 Regional Intelligence: Interactive slicers for UAE Emirates (Dubai, Abu Dhabi, etc.) to allow for localized retention strategies.
 
+Prescriptive Analytics Engine: Implemented a "Next Best Action" logic that uses behavioral heuristics to assign specific rescue workflows (Technical Audit, Executive Outreach, or Re-engagement) to at-risk VIPs.
+
 Tech Stack
 Python: Synthetic data generation and behavioral logic.
 
