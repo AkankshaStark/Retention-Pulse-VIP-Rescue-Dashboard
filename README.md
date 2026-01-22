@@ -1,6 +1,8 @@
 # Retention-Pulse-VIP-Rescue-Dashboard
 A Predictive Behavioral Risk Model utilizing XGBoost and Agentic AI to mitigate churn in the UAE market.
 
+![Retention Pulse Dashboard Preview](dashboard/dashboard preview).png)
+
 Project Overview
 This project simulates a fintech scenario in the UAE, where I developed a behavioral analysis system to identify high-value users at risk of churning. The dashboard serves as the command center for a Retention AI Agent, prioritizing rescue missions based on revenue impact and customer friction.
 
