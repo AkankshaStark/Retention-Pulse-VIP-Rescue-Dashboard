@@ -1,1 +1,11 @@
+# Data Manipulation
+pandas
+numpy
 
+# Machine Learning & Modeling
+xgboost
+scikit-learn
+
+# Visualization (if used in scripts)
+matplotlib
+seaborn
