@@ -1,11 +1,16 @@
-# Data Manipulation
-pandas
-numpy
+# --- Core Data Stack ---
+numpy==1.26.4
+pandas==2.2.1
 
-# Machine Learning & Modeling
-xgboost
-scikit-learn
+# --- Machine Learning (The Predictive Logic) ---
+scikit-learn==1.4.1.post1
+xgboost==2.0.3
 
-# Visualization (if used in scripts)
-matplotlib
-seaborn
+# --- Agentic AI Stack (The "Agent" Logic) ---
+# Choose the libraries you used for the agentic reasoning
+langchain==0.1.12
+langchain-openai==0.0.8
+openai==1.13.3
+
+# --- Environment & Deployment ---
+python-dotenv==1.0.1
